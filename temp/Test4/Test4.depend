@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1591727175 source:c:\users\charming\test\temp\test4\main.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+

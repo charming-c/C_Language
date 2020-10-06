@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1591409082 source:c:\users\charming\test\temp\test2\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<math.h>
+
